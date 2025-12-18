@@ -1,2 +1,2 @@
 console.log("first commit")
-console.log("feature one")
+console.log("feature two")
